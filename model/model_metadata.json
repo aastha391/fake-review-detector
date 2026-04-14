@@ -1,0 +1,17 @@
+{
+  "model_name": "Linear SVM (tuned)",
+  "accuracy": 0.9112,
+  "precision": 0.9108,
+  "recall": 0.9117,
+  "f1": 0.9112,
+  "roc_auc": 0.9727,
+  "tfidf_params": {
+    "max_features": 15000,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_df": 0.95
+  }
+}
